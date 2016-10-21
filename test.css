@@ -1,0 +1,138 @@
+body{
+background-image: url('dark_wood.png');
+
+}
+
+p{
+ font-family: "Arial";
+ font-kerning: 6px;
+ direction: left;
+}
+
+h3{
+color: #FFBC00 
+font-size: 40px; 
+font-family: "Passion One";
+margin-bottom: 0px;
+}
+
+li{
+
+}
+
+#Header h1{
+    font-size: 60px; 
+    font-family: "Passion One";
+    color: #FFBC00;
+    background-color: #8E41D5;
+}
+
+#Header{
+    
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #8E41D5;
+
+}
+
+#LeftNav{
+    
+    width: 400px;
+    text-align: center;
+    padding-bottom: 8px;
+    border: solid 8px black;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8E41D5;
+    
+}
+
+#LeftNav img{
+    background-color: #8E41D5;
+    
+}
+
+#LeftNav ul{
+
+    list-style-type: none;
+    padding-left: 0px;
+    background-color: #8E41D5;
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+    
+    width: 700px;
+    text-align: center;
+    padding-bottom: 15px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8E41D5;
+
+}
+
+#panel panel-default{
+    
+    width: 700px;
+    text-align: center;
+    padding-bottom: 15px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8E41D5;
+}
+
+#panel-heading{
+    width: 700px;
+    text-align: center;
+    padding-bottom: 15px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8E41D5;
+}
+
+#panel-body{
+
+    width: 700px;
+    text-align: center;
+    padding-bottom: 15px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8E41D5;
+}
+
+}
+#Footer{
+    
+    text-align: center;
+    border: solid 8px black;
+    background-color: #8E41D5;
+
+}
+
+ul{
+    
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+a{
+    color:white;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
